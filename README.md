@@ -21,3 +21,8 @@ Vite + React + React-Bootstrap setup.
 
 - Dev server: `npm run dev` (port 5173)
 - UI: Shows a Bootstrap Alert with “Hello React”.
+
+# Live
+
+- Live: https://smp1993.github.io/profiles-app/
+![Deploy](https://github.com/smp1993/profiles-app/actions/workflows/deploy.yml/badge.svg)
